@@ -1,0 +1,15 @@
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\bin\Debug\net10.0\04-ISP.exe
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\bin\Debug\net10.0\04-ISP.deps.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\bin\Debug\net10.0\04-ISP.runtimeconfig.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\bin\Debug\net10.0\04-ISP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\bin\Debug\net10.0\04-ISP.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.AssemblyInfoInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.AssemblyInfo.cs
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.sourcelink.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\refint\04-ISP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\04-ISP.genruntimeconfig.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\04-ISP\obj\Debug\net10.0\ref\04-ISP.dll

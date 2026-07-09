@@ -1,0 +1,15 @@
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\bin\Debug\net10.0\03-LSP.exe
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\bin\Debug\net10.0\03-LSP.deps.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\bin\Debug\net10.0\03-LSP.runtimeconfig.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\bin\Debug\net10.0\03-LSP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\bin\Debug\net10.0\03-LSP.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.AssemblyInfoInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.AssemblyInfo.cs
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.sourcelink.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\refint\03-LSP.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\03-LSP.genruntimeconfig.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\03-LSP\obj\Debug\net10.0\ref\03-LSP.dll
