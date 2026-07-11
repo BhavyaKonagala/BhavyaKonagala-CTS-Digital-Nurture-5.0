@@ -1,0 +1,12 @@
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.deps.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfoInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfo.cs
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.sourcelink.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\refint\SampleApp.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\ref\SampleApp.dll

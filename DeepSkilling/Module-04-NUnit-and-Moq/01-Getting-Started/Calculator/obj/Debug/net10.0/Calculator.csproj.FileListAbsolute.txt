@@ -1,0 +1,12 @@
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\BHAVYA K\Desktop\BhavyaKonagala-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\01-Getting-Started\Calculator\obj\Debug\net10.0\ref\Calculator.dll
